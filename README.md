@@ -52,12 +52,12 @@ The main Objective of the project are:
 
 ### Design Flow :- 
 
-<img src="output/Tech_component.png" width="550" >
+<img src="output/design_flow.png" width="500" >
 
  
 ###  Block Diagram :- 
 
-<img src="output/Tech_component.png" width="550" >
+<img src="output/block_diagram.png" width="550" >
 
 The above diagram describes cyberbullying detection framework used, it has two major parts Natural Language Processing and Machine Learning.
 #### 1. Natural Language Processing:
