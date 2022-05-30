@@ -10,7 +10,7 @@
  4. Technologies-used
  5. Design flow
  6. block diagram
- 7. Technical-aspec
+ 7. Technical-aspects
  8. Result and Discussion
  9. Design and Architecture of Chat Prediction Service
  10. User Interface design
