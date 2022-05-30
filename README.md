@@ -92,6 +92,8 @@ After cleaning the data we have applied Natural language processing techniques b
 
 This technique helps to measure the quality of the resulting vector representations. This works with similar words that tend to close with words that can have multiple degrees of similarity. Vectorization is performed prior to sending the training and testing data set through the ML models.
 
+![feature_selection](https://user-images.githubusercontent.com/45121295/171020935-b089094b-38d0-4542-86ff-6b4374f440db.gif)
+
 ### Result and Discussion
 
 #### Comparative Analysis between two Feature Selections methods
