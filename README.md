@@ -1,6 +1,6 @@
 # CyberBullying-Detection-in-Hinglish-Languages-Using-Machine-Learning-
 
-<img src="Output/front_photo.jpeg" width="520" >
+<img src="output/why_topic.png" width="520" >
 
 ## Table of Content
 
