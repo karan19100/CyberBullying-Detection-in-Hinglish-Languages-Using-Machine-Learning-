@@ -26,7 +26,7 @@ Our proposed idea contributes to solving the problem by identifying and classify
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later .(The main intention was to create an end-to-end group chat application which can predict whether the text entered in groups is bullying or non-bullying.)  
 The main Objective of the project are:
 - Extracting real time data from social media sites.
-- Selecting best feature extraction model in text classification between Count Vectorization(CV) and Term Frequency-Inverse Frequency in document(TFIDF)
+- Selecting best feature extraction model in text classification between Count Vectorization(CV) and Term Frequency-Inverse Frequency in document(TF-IDF)
 - Building various Machine Learning Model using Training dataset.
 - Selecting best model by comparing accuracy, precision, f1 score and recall.
 - perform predictions on testing data and analyze the results.
@@ -35,7 +35,7 @@ The main Objective of the project are:
 ### problem statement ?
 
 - As an issue that poses an increased threat to the younger generation, cyberbullying requires critical monitoring on various social media platforms. The existing solutions are incapable to keep up with the escalation of online bullying. Text matching technique has been widely used in these solutions which does not provide accurate results.
-- Thus we want to develop a model that can detect o↵ensive or hateful words in English and Hinglish language. We want our model to be highly accurate    and fast. This model can help detect Cyberbullying on various social media networking websites.
+- Thus we want to develop a model that can detect offensive or hateful words in English and Hinglish language. We want our model to be highly accurate    and fast. This model can help detect Cyberbullying on various social media networking websites.
 
 ### Technologies Used :- 
 
