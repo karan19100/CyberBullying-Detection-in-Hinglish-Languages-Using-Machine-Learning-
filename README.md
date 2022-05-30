@@ -41,8 +41,6 @@ The main Objective of the project are:
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=100>
 <img target="_blank" src="https://backendless.com/wp-content/uploads/2020/04/twilio-logo.png" width=70>
 <img target="_blank" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width=65>
-<img target="_blank" src="https://symbols.getvecta.com/stencil_27/122_webhooks.82c05a6373.svg" width=65>
-<img target="_blank" src="https://cms-assets.tutsplus.com/uploads/users/769/posts/35539/preview_image/marketstack.jpg" width=75>]
 
 ### Design Flow :- 
 
