@@ -21,6 +21,8 @@
 
 Our proposed idea contributes to solving the problem by identifying and classifying text or messages of an intimidating or threatening nature. Our aim was to build a model to classify or identify cyberbullying in English and Hinglish languages and to build a Chat application which can predict whether the text entered in group chats is bullying or non-bullying. 
 
+<img src="output/objective.png" width="520" >
+
 ### Learning Objective :- 
 
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later .(The main intention was to create an end-to-end group chat application which can predict whether the text entered in groups is bullying or non-bullying.)  
@@ -50,12 +52,12 @@ The main Objective of the project are:
 
 ### Design Flow :- 
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/Tech_component.png" width="550" >
 
  
 ###  Block Diagram :- 
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/Tech_component.png" width="550" >
 
 The above diagram describes cyberbullying detection framework used, it has two major parts Natural Language Processing and Machine Learning.
 #### 1. Natural Language Processing:
@@ -74,7 +76,7 @@ In this second phase, we applied various machine learning approaches like Linear
 
 The data is required to clean before passing through multiple ML models. as shown in Fig:4.4, this steps are necessary to removed from the data because they do not contribute for classification phase.
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/pre-processed.png" width="550" >
 
 
 #### Pre-processing Techniques 
@@ -97,11 +99,11 @@ We are doing a comparative analysis between two feature extraction techniques li
 
 #### Comparison of Algorithms with count vectorizer
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/cv.png" width="550" >
 
 #### Comparison of Algorithms with Term Frequency Inverse Document Frequency
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/tf-idf.png" width="550" >
 
 #### Findings 
 
@@ -113,7 +115,7 @@ TF-IDF gives slightly better accuracy then CV because it not only aims on the fr
 
 ### Design and Architecture of Chat Prediction Service
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/hinglish.png" width="550" >
 
 We have made a service wrapper using flask for our prediction model. Now whenever the group of users write or post the messages in format of text, it will request our service wrapper and our service wrapper will load the Machine learning model which is in pickle file. this ML model will predict whether the given message is bullying or non-bullying i.e either 1 or 0 and will return to the service wrapper. Later our service wrapper will respond to the users, whether the message enter is bullying or non-bullying.
 
