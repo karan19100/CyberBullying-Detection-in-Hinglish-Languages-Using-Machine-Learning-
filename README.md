@@ -152,8 +152,7 @@ https://user-images.githubusercontent.com/45121295/171021974-c23572c2-2a20-4149-
 - then in the safechat folder to run the group chat application first run server.py. then client.py, and then run client_GUI.py. 
 
 
-
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajapara](https://in.linkedin.com/in/keval-rajpara) , [Chaitaniya phadhtare](https://in.linkedin.com/in/chaitanya-phadtare-9a18a0191)
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajpara](https://in.linkedin.com/in/keval-rajpara) , [Chaitaniya phadhtare](https://in.linkedin.com/in/chaitanya-phadtare-9a18a0191)
 
 
 
