@@ -146,11 +146,14 @@ https://user-images.githubusercontent.com/45121295/171021974-c23572c2-2a20-4149-
 
 - Clone this repository and unzip it.
 - Begin a new virtual environment with Python 3 and activate it.
-- Install the required packages using pip install -r requirements.txt
-- Execute the command: python app.py.
+- Install the required packages using pip install -r requirements.txt.
+- First in the code folder run the .ipynb file and generate all the pickle file in it.
+- then in the service_testing folder to run the prediction service wrapper execute the command: flask run.
+- then in the safechat folder to run the group chat application first run server.py. then client.py, and then run client_GUI.py. 
 
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajapara](https://www.linkedin.com/in/jil-patel-4936a11b2) , [Chaitaniya phadhtare](https://www.linkedin.com/in/akshat-shah-225171203)
+
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajapara](https://in.linkedin.com/in/keval-rajpara) , [Chaitaniya phadhtare](https://in.linkedin.com/in/chaitanya-phadtare-9a18a0191)
 
 
 
