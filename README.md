@@ -84,7 +84,7 @@ The data is required to clean before passing through multiple ML models. as show
 
 After cleaning the data we have applied Natural language processing techniques because the machine learning algorithm cannot work directly with the raw text that is they cannot understand the whole sentences given to it, so we transform these sentences into understandable format by using pre-processing techniques.
 
-<img src="output/pre-processed.png" width="550" >
+<img src="output/nlp.png" width="550" >
 
 ![NLP](https://user-images.githubusercontent.com/45121295/171019589-022ed154-bee4-49f3-9eee-e4fc4515f909.gif)
 
