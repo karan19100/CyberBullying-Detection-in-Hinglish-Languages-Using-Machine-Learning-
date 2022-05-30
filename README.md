@@ -21,7 +21,7 @@
 
 Our proposed idea contributes to solving the problem by identifying and classifying text or messages of an intimidating or threatening nature. Our aim was to build a model to classify or identify cyberbullying in English and Hinglish languages and to build a Chat application which can predict whether the text entered in group chats is bullying or non-bullying. 
 
-<img src="output/objective.png" width="520" >
+<img src="output/objective.png" width="480" >
 
 ### Learning Objective :- 
 
