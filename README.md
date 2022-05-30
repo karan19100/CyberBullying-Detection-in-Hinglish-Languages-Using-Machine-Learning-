@@ -96,7 +96,7 @@ This technique helps to measure the quality of the resulting vector representati
 
 We are doing a comparative analysis between two feature extraction techniques like count vectorization CV and term frequency inverse frequency in document TF-IDF with few algorithms like Logistic Regression, Random Forest Classifier, Linear SVC, and KNeighbors Classifiers as shown in figure below.
 
-<img src="Output/Tech_component.png" width="550" >
+<img src="output/comparision.png" width="550" >
 
 #### Comparison of Algorithms with count vectorizer
 
