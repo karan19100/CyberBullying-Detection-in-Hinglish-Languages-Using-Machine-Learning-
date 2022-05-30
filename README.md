@@ -137,7 +137,7 @@ Whenever the user posts a message in the chat, our prediction service will load 
 - Execute the command: python app.py.
 
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajapara](https://www.linkedin.com/in/jil-patel-4936a11b2) , [Chaitaniya phadhtar](https://www.linkedin.com/in/akshat-shah-225171203)
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [keval rajapara](https://www.linkedin.com/in/jil-patel-4936a11b2) , [Chaitaniya phadhtare](https://www.linkedin.com/in/akshat-shah-225171203)
 
 
 
