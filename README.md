@@ -6,12 +6,15 @@
 
  1. Aim
  2. Learning-Objective
- 3. Technologies-used
- 4. Technical-aspect
- 5. Design and Artitecture 
- 7. installation
- 8. Steps to write python flask app
- 9. Output 
+ 3. problem statement
+ 4. Technologies-used
+ 5. Design flow
+ 6. block diagram
+ 7. Technical-aspec
+ 8. Result and Discussion
+ 9. Design and Architecture of Chat Prediction Service
+ 10. User Interface design
+ 11. installation
 
 
 ### Aim :- 
@@ -29,7 +32,7 @@ The main Objective of the project are:
 - perform predictions on testing data and analyze the results.
 - Building and Deployment group chat-application.
 
-#### problem statement ?
+### problem statement ?
 
 - As an issue that poses an increased threat to the younger generation, cyberbullying requires critical monitoring on various social media platforms. The existing solutions are incapable to keep up with the escalation of online bullying. Text matching technique has been widely used in these solutions which does not provide accurate results.
 - Thus we want to develop a model that can detect o↵ensive or hateful words in English and Hinglish language. We want our model to be highly accurate    and fast. This model can help detect Cyberbullying on various social media networking websites.
@@ -65,20 +68,22 @@ After pre-processing we splitted the data into training and testing data. Next, 
 #### 2. Machine Learning:
 In this second phase, we applied various machine learning approaches like Linear SVC, Decisison Tree, Naive Bayes, Bagging classifier, Logistic Regression, Random Forest, MultinomailNB, K Neighbours Clas- sifier and Adaboost classifier to train the model and find the accuracy for each model based on the literature survey we conducted. We also calculated F1 score for evaluation purposes and improved accu- racy by repeating the stages again. We wanted to select best pair between feature selection like TF-IDF and count vectorizer and machine learning model. For this we have done a comparative analysis between count vectorizer and TF-IDF, from this comparative analysis we found out the best pair which has higher accuracy and less prediction time and made its pickle file. After that we passed the testing data to the models to compare the accuracy of various algorithms with each other. After following these stages, our model is able to predict whether the text enter is toxic i.e bullying and harmful for the society or non - toxic i.e non-bullying in Hinglish language.
 
-### Data Cleaning
+### Technical aspects
+
+#### Data Cleaning
 
 The data is required to clean before passing through multiple ML models. as shown in Fig:4.4, this steps are necessary to removed from the data because they do not contribute for classification phase.
 
 <img src="Output/Tech_component.png" width="550" >
 
 
-### Pre-processing Techniques 
+#### Pre-processing Techniques 
 
 After cleaning the data we have applied Natural language processing techniques because the machine learning algorithm cannot work directly with the raw text that is they cannot understand the whole sentences given to it, so we transform these sentences into understandable format by using pre-processing techniques.
 
 <img src="Output/Tech_component.png" width="550" >
 
-### Feature Selection
+#### Feature Selection
 
 This technique helps to measure the quality of the resulting vector representations. This works with similar words that tend to close with words that can have multiple degrees of similarity. Vectorization is performed prior to sending the training and testing data set through the ML models.
 
