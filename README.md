@@ -40,7 +40,10 @@ The main Objective of the project are:
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=100>
 <img target="_blank" src="https://backendless.com/wp-content/uploads/2020/04/twilio-logo.png" width=70>
-<img target="_blank" src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width=65>
+<img target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width=90>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=120>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=120>]
+
 
 ### Design Flow :- 
 
