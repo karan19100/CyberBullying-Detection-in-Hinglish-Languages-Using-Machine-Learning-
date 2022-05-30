@@ -92,7 +92,7 @@ This technique helps to measure the quality of the resulting vector representati
 
 ### Result and Discussion
 
-##### Comparative Analysis between two Feature Selections methods
+#### Comparative Analysis between two Feature Selections methods
 
 We are doing a comparative analysis between two feature extraction techniques like count vectorization CV and term frequency inverse frequency in document TF-IDF with few algorithms like Logistic Regression, Random Forest Classifier, Linear SVC, and KNeighbors Classifiers as shown in figure below.
 
